@@ -214,6 +214,4 @@ This project was completed as part of the **Unsupervised Machine Learning** modu
 
 The stakeholder presentation (5 minutes, non-technical audience) is available as a PDF in this repository:
 
-📄 **[ML_Powered_Playlist_Generator.pdf](./ML_Powered_Playlist_Generator.pdf)**
-
 ---
