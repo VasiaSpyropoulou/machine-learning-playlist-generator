@@ -212,6 +212,6 @@ This project was completed as part of the **Unsupervised Machine Learning** modu
 
 ## 📎 Presentation
 
-The stakeholder presentation (5 minutes, non-technical audience) is available as a PDF in this repository:
+The stakeholder presentation (5 minutes, non-technical audience) is available as a PDF in this repository.
 
 ---
